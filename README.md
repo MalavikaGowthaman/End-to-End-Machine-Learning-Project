@@ -79,7 +79,11 @@ pip install -r requirements.txt
 
 - Exception - for exception box is used here
 
-- Utility - 
+- Utility -  Create common.py in utils( to store the common code like yaml creation, load, json file loading writing etc)
+
+## 6. Notebook Experiment
+
+- Try to do the coding for your data in jupyter notebook. 
 
 
 
