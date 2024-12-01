@@ -69,6 +69,17 @@ conda activate projectname
 pip install -r requirements.txt
 ```
 
+## 4. Project setup
+
+- Create a setup.py file and write the necessary code.
+
+## 5. Logging, Exception and Utility
+
+- Create a logging code in src/__init__. (to know the details, time and the folder details.)
+
+- Exception - for exception box is used here
+
+- Utility - 
 
 
 
