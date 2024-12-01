@@ -53,6 +53,22 @@ git push origin main
 conda create -n projectname python==3.10 -y
 ```
 
+```bash
+conda activate projectname
+```
+
+## 3. Project Template Creation
+
+- Create Project template for creating folders and files.
+
+- Add a Libaries in requirements.txt to install.
+
+- Install it using the below command
+
+```bash
+pip install -r requirements.txt
+```
+
 
 
 
